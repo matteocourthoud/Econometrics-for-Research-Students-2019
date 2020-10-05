@@ -1,6 +1,6 @@
 # Econometrics for Research Students - 2019
 
-Material for the PhD course by [Damian Kozbur](https://www.econ.uzh.ch/en/people/faculty/kozbur.html) @UZH. 
+Notes from the PhD course by [Damian Kozbur](https://www.econ.uzh.ch/en/people/faculty/kozbur.html) @UZH. 
 
 
 
@@ -8,7 +8,7 @@ Material for the PhD course by [Damian Kozbur](https://www.econ.uzh.ch/en/people
 
 0. [Introduction](https://nbviewer.jupyter.org/github/matteocourthoud/Econometrics-for-Research-Students-2019/blob/master/0_intro.ipynb)
 1. [OLS Algebra](https://nbviewer.jupyter.org/github/matteocourthoud/Econometrics-for-Research-Students-2019/blob/master/1_ols_algebra.ipynb)
-2. Large Sample Theory
+2. [OLS Inference](https://nbviewer.jupyter.org/github/matteocourthoud/Econometrics-for-Research-Students-2019/blob/master/2_ols_inference.ipynb)
 3. Inference
 4. Endogeneity and Instrumental Variables
 5. Non-Parametric Regression
