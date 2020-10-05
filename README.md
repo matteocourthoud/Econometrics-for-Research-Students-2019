@@ -19,6 +19,7 @@ Material for the PhD course by [Damian Kozbur](https://www.econ.uzh.ch/en/people
 ### Appendix
 
 1. [Matrix Algebra](https://nbviewer.jupyter.org/github/matteocourthoud/Econometrics-for-Research-Students-2019/blob/master/a1_matrix_algebra.ipynb)
+2. [Probability](https://nbviewer.jupyter.org/github/matteocourthoud/Econometrics-for-Research-Students-2019/blob/master/a2_probability.ipynb)
 
 ### Contacts
 
