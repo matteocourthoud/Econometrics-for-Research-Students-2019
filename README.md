@@ -1,6 +1,6 @@
 # Econometrics for Research Students - 2019
 
-Notes from the PhD course by [Damian Kozbur](https://www.econ.uzh.ch/en/people/faculty/kozbur.html) @UZH. 
+Here I collected my notes from the PhD course by [Damian Kozbur](https://www.econ.uzh.ch/en/people/faculty/kozbur.html) @UZH. 
 
 
 
@@ -25,4 +25,4 @@ Notes from the PhD course by [Damian Kozbur](https://www.econ.uzh.ch/en/people/f
 
 ### Contacts
 
-If you have any issue or suggestion for the course, please feel free to [pull edits](https://github.com/matteocourthoud/[Econometrics-for-Research-Students-2019](https://github.com/matteocourthoud/Econometrics-for-Research-Students-2019)/pulls) or contact me [via mail](mailto:matteo.courthoud@uzh.ch). All feedback is greatly appreciated!
+If you have any issue or suggestion for the course, please feel free to [push edits](https://github.com/matteocourthoud/[Econometrics-for-Research-Students-2019](https://github.com/matteocourthoud/Econometrics-for-Research-Students-2019)/pulls) or contact me [via mail](mailto:matteo.courthoud@uzh.ch). All feedback is greatly appreciated!
